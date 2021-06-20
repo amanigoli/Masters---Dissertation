@@ -1,0 +1,2 @@
+# Masters---Dissertation
+Analysing Retail Sector News using NLP during COVID-19. We live in an information era. We hear the news everywhere and see it. We open our social media account and our newsfeed contains news. We turn on your television and a news flash is aired. Newspapers here and there being sold out.  Let us talk about the news on Google. How often does one check Google news individually? Every nanosecond or less, it refreshes. So this implementation helps to find out the similarity of articles in less time.
